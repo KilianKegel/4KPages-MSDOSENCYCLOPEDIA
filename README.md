@@ -1,5 +1,8 @@
 # 4KPages-MSDOSENCYCLOPEDIA
 the famous "MSDOS Encyclopedia"
+
+![PDF](https://1drv.ms/b/c/ff234b6fa870c030/EQT0KbWoz-RJicx6Vs5zusABW_MM6VWVeHb50Cx5h78xpA)
+
 ![](https://github.com/KilianKegel/4KPages-MSDOSENCYCLOPEDIA/blob/main/images/MSDOSENCYCLOPEDIA_000.jpg) 
 ![](https://github.com/KilianKegel/4KPages-MSDOSENCYCLOPEDIA/blob/main/images/MSDOSENCYCLOPEDIA_001.jpg) 
 ![](https://github.com/KilianKegel/4KPages-MSDOSENCYCLOPEDIA/blob/main/images/MSDOSENCYCLOPEDIA_002.jpg) 
